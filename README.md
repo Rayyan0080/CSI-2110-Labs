@@ -5,8 +5,6 @@ This repository contains Java implementations and lab exercises for CSI 2110: Da
 ## Course overview
 
 - Course: CSI 2110 Data Structures and Algorithms
-- Term: Spring/Summer 2026
-- Professor: Mohamed Ali Ibrahim, Ph.D., P.Eng.
 - Focus areas: abstract data types, complexity analysis, trees, sorting, graphs, strings, and pattern matching.
 
 ## Repository structure
